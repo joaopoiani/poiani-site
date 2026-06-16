@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://www.poianimanipulacao.com.br/sitemap.xml
+# Poiani Farmacia de Manipulacao - Franca SP
