@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.poianimanipulacao.com.br/sitemap.xml
