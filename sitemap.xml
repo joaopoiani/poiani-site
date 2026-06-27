@@ -139,4 +139,31 @@
     <priority>0.7</priority>
   </url>
 
+
+  <!-- Novas Páginas de Serviço -->
+  <url>
+    <loc>https://www.poianimanipulacao.com.br/farmacia-manipulacao-fitoterapicos-catanduva.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.poianimanipulacao.com.br/farmacia-manipulacao-articulacoes-colageno-catanduva.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.poianimanipulacao.com.br/farmacia-manipulacao-longevidade-catanduva.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.poianimanipulacao.com.br/farmacia-manipulacao-saude-masculina-catanduva.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
 </urlset>
