@@ -4,7 +4,7 @@
   <!-- Homepage -->
   <url>
     <loc>https://www.poianimanipulacao.com.br/</loc>
-    <lastmod>2026-06-26</lastmod>
+    <lastmod>2026-07-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -23,8 +23,20 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.poianimanipulacao.com.br/farmacia-manipulacao-esportiva-catanduva.html</loc>
-    <lastmod>2026-06-26</lastmod>
+    <loc>https://www.poianimanipulacao.com.br/farmacia-manipulacao-suplementos-catanduva.html</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.poianimanipulacao.com.br/farmacia-manipulacao-vitaminas-catanduva.html</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.poianimanipulacao.com.br/farmacia-manipulacao-fitoterapicos-catanduva.html</loc>
+    <lastmod>2026-07-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -66,23 +78,24 @@
   </url>
 
   <!-- Artigos de Blog -->
-  <url>
-    <loc>https://www.poianimanipulacao.com.br/blog-longevidade.html</loc>
-    <lastmod>2026-06-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.poianimanipulacao.com.br/blog-fitoterapicos.html</loc>
-    <lastmod>2026-06-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.poianimanipulacao.com.br/blog-saude-masculina.html</loc>
-    <lastmod>2026-06-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
+  <url><loc>https://www.poianimanipulacao.com.br/blog-longevidade.html</loc><lastmod>2026-06-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.poianimanipulacao.com.br/blog-fitoterapicos.html</loc><lastmod>2026-06-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.poianimanipulacao.com.br/blog-saude-masculina.html</loc><lastmod>2026-06-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.poianimanipulacao.com.br/blog-emagrecimento.html</loc><lastmod>2026-07-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.poianimanipulacao.com.br/blog-hormonios.html</loc><lastmod>2026-07-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.poianimanipulacao.com.br/blog-suplementos.html</loc><lastmod>2026-07-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.poianimanipulacao.com.br/blog-creatina.html</loc><lastmod>2026-07-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.poianimanipulacao.com.br/blog-vitamina-d3-k2.html</loc><lastmod>2026-07-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.poianimanipulacao.com.br/blog-magnesio-formas.html</loc><lastmod>2026-07-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.poianimanipulacao.com.br/blog-melatonina.html</loc><lastmod>2026-07-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.poianimanipulacao.com.br/blog-glp1-suporte.html</loc><lastmod>2026-07-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.poianimanipulacao.com.br/blog-omega3.html</loc><lastmod>2026-07-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.poianimanipulacao.com.br/blog-pre-treino.html</loc><lastmod>2026-07-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.poianimanipulacao.com.br/blog-bcaa-glutamina.html</loc><lastmod>2026-07-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.poianimanipulacao.com.br/blog-hmb.html</loc><lastmod>2026-07-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.poianimanipulacao.com.br/blog-lbaiba.html</loc><lastmod>2026-07-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.poianimanipulacao.com.br/blog-whey-protein.html</loc><lastmod>2026-07-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.poianimanipulacao.com.br/blog-fitoterapicos-masculinos.html</loc><lastmod>2026-07-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.poianimanipulacao.com.br/blog-articulacoes.html</loc><lastmod>2026-07-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
 </urlset>
